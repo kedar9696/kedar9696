@@ -50,7 +50,7 @@
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
   </a>
   <a href="https://www.rundeck.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rundeck/rundeck-ar21.svg" alt="ansible" width="60" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/rundeck/rundeck-ar21.svg" alt="rundeck" width="60" height="40"/>
   </a>  
   <a href="https://www.graylog.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graylog/graylog-icon.svg" alt="graylog" width="40" height="40"/>
